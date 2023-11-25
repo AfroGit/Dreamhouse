@@ -1,3 +1,16 @@
+#Get Started with Salesforce Development
+
+This project gave you an overview of what it’s like to be a developer working with Salesforce Platform capabilities like LWC and Apex. However, that's not all you can do! 
+
+Salesforce Functions (adopting Faas, Functions as a Service model) allows developers to extend Salesforce data with elastic computing using open source languages like Java and JavaScript, making it easier to scale Salesforce apps. Heroku is another product our developers can use if they fully need to control the horizontal and vertical scaling of the app resources. And with the Salesforce suite of products and Salesforce AppExchange, the sky’s the limit for learning opportunities
+
+
+
+
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
